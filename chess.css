@@ -1,0 +1,15 @@
+@charset uft8;
+
+#board {
+	margin:64px;
+	_overflow: hidden;
+	border: 0px solid black;	
+	position: relative;
+}
+
+#cb_data {
+	margin: 64px auto;
+	_overflow: hidden;
+	border: 1px solid black;	
+	position: relative;
+}
